@@ -40,3 +40,33 @@ a {
     padding-right: 5%;
     border-radius: 10px;
 }
+
+.center-one {
+    display: flex;
+}
+
+.header-two-center {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding: 3%;
+}
+
+.images-row img {
+    width: 210px;
+    height: 210px;
+}
+
+.images-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+
+.text {
+    width: 210px;
+    text-align: center;
+}
