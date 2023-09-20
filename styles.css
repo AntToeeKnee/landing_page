@@ -70,3 +70,20 @@ a {
     width: 210px;
     text-align: center;
 }
+
+.quote-container {
+    background-color: #E5E7Eb;
+    padding: 12%;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 100;
+    padding: 50px;
+}
+
+.quoter {
+    text-align: right;
+    font-weight: bold;
+}
