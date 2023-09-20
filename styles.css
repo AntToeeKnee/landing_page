@@ -87,3 +87,30 @@ a {
     text-align: right;
     font-weight: bold;
 }
+
+.sign-up-container {
+    display: flex;
+    background-color: #3882f6;
+    color: white;
+    padding: 5%;
+    align-items: center;
+    margin: 8%;
+    border-radius: 8px;
+    justify-content: space-between;
+}
+
+.sign-up h1,p {
+    margin: 0%;
+}
+.sign-up-container button {
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    background-color: #3882f6;
+    background: none;
+    padding-left: 3%;
+    padding-right: 3%;
+
+    outline: none;
+    background: none;
+}
