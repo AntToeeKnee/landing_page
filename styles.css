@@ -107,10 +107,13 @@ a {
     border-radius: 5px;
     border-color: white;
     background-color: #3882f6;
-    background: none;
     padding-left: 3%;
     padding-right: 3%;
+}
 
-    outline: none;
-    background: none;
+.footer{
+    background: #1F2937;
+    color: white;
+    padding: 3%;
+    text-align: center;
 }
