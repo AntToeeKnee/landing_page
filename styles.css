@@ -9,14 +9,18 @@ body {
     display: flex;
     background: #1F2937;
     color: white;
-    gap: 70%;
+    padding: 24px;
     padding-left: 10%;
     padding-right: 10%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-logo {
+    font-weight: bold;
 }
 
 .header-links {
-    align-self: center;
-    justify-content: space-between;
     display: flex;
     margin: 0;
     padding: 0;
